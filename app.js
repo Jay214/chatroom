@@ -1,6 +1,6 @@
 
 /*
-**author=linjunjian
+**author@linjunjian
 *time@2016-9
 */
 var app = require('http').createServer();
