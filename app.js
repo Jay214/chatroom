@@ -1,6 +1,7 @@
 
 /*
 **author=linjunjian
+*time@2016-9
 */
 var app = require('http').createServer();
 var io = require('socket.io')(app);
